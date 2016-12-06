@@ -1,19 +1,19 @@
 # Getting Sticky
 ---------------------------------------------------------------------------------------------------
-Add structure to a web page from the DOM point of view. Build a page where the user can create a series of notes to the page and edit and delete the content. 
+Add structure to a web page from the DOM point of view. Build a page where the user can create a series of notes to the page, edit the content, and delete the notes. 
 ---------------------------------------------------------------------------------------------------
 
 ## MVP
 
 When a user visits the site...
    
-    - a field called "Total number of notes:", initially this should be set to zero
-    - as you add notes the total number of notes should be updated
+    - they should see a field called "Total number of notes:", initially this should be set to zero
+    - as the user adds notes the "total number of notes" should be updated
     - a button that says "Add A NOTE" should be on the page, when clicked, a editable note should be added on the page
 
 When a user clicks on the "Add A Note" button 
     
-     - a new editable note pop-up, where they enter text
+     - a new editable note pops-up, where they enter text
      - they should be able to come back to the note and edit it, or delete it
      - also the total note counter needs to be updated
 
@@ -25,7 +25,7 @@ When a user clicks on the "Add A Note" button
 - User needs to delete some notes, when they become outdated. Add a "X" on the notes so they can be disposed when the "X" is clicked
 
 ### Bonus
-- Add a datetime stamp for the note, when it is created, this needs to update everytime the note is updated
+- Add a datetime stamp for the note, when it is created, this needs to be updated everytime the note is updated
 
 
 
