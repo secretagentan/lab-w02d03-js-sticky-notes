@@ -9,12 +9,12 @@ When a user visits the site...
     they should see... 
     - a field called "Total number of notes:", initially this should be set to zero
     - as you add notes the total number of notes should be updated
-    - a button that says "Add A NOTE"
+    - a button that says "Add A NOTE" should be on the page, when clicked, a editable note should be added on the page
 
 When a user clicks on the "Add A Note" button 
      they should see...
      - a new editable note pop-up, where they enter text
-     - a should be able to come back to the note and edit it, or delete it
+     - they should be able to come back to the note and edit it, or delete it
      - also the total note counter needs to be updated
 
 ### Feature Requests
