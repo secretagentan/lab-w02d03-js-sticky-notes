@@ -7,7 +7,8 @@ Add structure to a web page from the DOM point of view. Build a page where the u
 
 When a user visits the site...
    
-    - they should see text called "Total number of notes:", initially this should be set to zero a button that says "Add A NOTE"
+    - they should see text called "Total number of notes:", initially this should be set to zero 
+    - there should be a button that says "Add A NOTE"
 
 When a user clicks on the "Add A Note" button 
     
