@@ -48,4 +48,4 @@ When a user clicks on the "Add A Note" button
 - [Get elements using id](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
 - [document.createtextnode](http://www.w3schools.com/jsref/met_document_createtextnode.asp)
 - [Nodes](https://developer.mozilla.org/en-US/docs/Web/API/Node)
--
+
