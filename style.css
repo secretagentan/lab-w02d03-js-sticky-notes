@@ -5,8 +5,10 @@ body {
 h1 {
   color: white;
 }
-button {
-  /*margin: 10px;*/
+#counter {
+  color: gray;
+}
+.new-sticky {
   background: white;
   border-radius: 4px
 }
@@ -19,7 +21,6 @@ button {
   height: 300px;
 }
 .sticky {
-  /*position: static;*/
   height: 130px;
   width: 130px;
   background: gold;
