@@ -27,9 +27,22 @@ var handleAddSticky = function(event) {
     sticky.appendChild(text);
     text.setAttribute("class", "sticky-text");
     text.setAttribute("contenteditable", "true");
-  }};
+
+    button.addEventListener("click", addToTotal);
+  }
+
+};
 
 button.addEventListener("click", handleAddSticky);
+
+var addToTotal = function(event) {
+    var spanTotal = document.querySelector("#total");
+    var totalStickies = document.querySelectorAll("#board .sticky").length;
+    console.log(totalStickies);
+    spanTotal.textContent = totalStickies;
+
+};
+
 
 // ==============================================
 // ### Feature Requests
